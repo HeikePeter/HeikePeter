@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @HeikePeter
-- 👀 I’m interested in learning to code.
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on anything
+- 👋 Hi, I’m Peter.
+- 👀 I'm currently learning to code.
+- 🌱 I’m currently learning Python, HTML, CSS and JS. 
 - 📫 How to reach me ...(message me on git)
+- 
